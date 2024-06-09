@@ -1,10 +1,21 @@
-.title,
-.first-lists {
+body {
     font-family: Didot, Baskerville, Bodoni;
     text-align: center;
 }
 
-li.first-lists {
+li {
     list-style-type: none;
     padding: 0;
+}
+
+.image-container {
+    text-align: center;
+}
+
+.ingredients li {
+    margin-bottom: 10px;
+}
+
+.steps li {
+    margin-bottom: 15px;
 }
