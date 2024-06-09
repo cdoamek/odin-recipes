@@ -26,4 +26,10 @@ button {
     font-size: 17px;
     font-weight: bold;
     background-color:#b5b5b5;
+    color: black;
+    text-decoration: none;
+}
+
+.custom-link:visited {
+    color: inherit;
 }
