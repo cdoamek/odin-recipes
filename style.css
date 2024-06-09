@@ -33,3 +33,9 @@ button {
 .custom-link:visited {
     color: inherit;
 }
+
+.personal-picture img{
+    width: 250px;
+    height: auto;
+    border-radius: 250px;
+}
