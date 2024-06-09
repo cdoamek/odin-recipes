@@ -1,4 +1,10 @@
-.title {
+.title,
+.first-lists {
     font-family: Didot, Baskerville, Bodoni;
     text-align: center;
+}
+
+li.first-lists {
+    list-style-type: none;
+    padding: 0;
 }
