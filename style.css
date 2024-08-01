@@ -1,8 +1,9 @@
 body,
 button {
-    font-family: Didot, Baskerville, Bodoni;
+    font-family: Helvetica, Arial, sans-serif;
     text-align: center;
 }
+
 
 li {
     list-style-type: none;
