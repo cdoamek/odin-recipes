@@ -4,6 +4,15 @@ button {
     text-align: center;
 }
 
+.title{
+    background-color:#009de6;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #1732c8;
+    padding: 10px;
+    margin: -10px -10px 10px;
+}
+
 li {
     list-style-type: none;
     padding: 0;
