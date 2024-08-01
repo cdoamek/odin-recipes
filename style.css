@@ -4,7 +4,6 @@ button {
     text-align: center;
 }
 
-
 li {
     list-style-type: none;
     padding: 0;
@@ -39,14 +38,6 @@ button {
     width: 250px;
     height: auto;
     border-radius: 250px;
-}
-
-ul{
-    background-color: rgb(163, 127, 106);
-    border: solid 5px rgb(117, 86, 68);
-    padding: 10px;
-    margin: 30px 45px;
-    font-weight: bold;
 }
 
 .warning-note{
