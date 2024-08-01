@@ -47,3 +47,7 @@ ul{
     margin: 30px 45px;
     font-weight: bold;
 }
+
+.warning-note{
+    text-decoration: underline;
+}
