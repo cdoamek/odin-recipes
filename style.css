@@ -13,6 +13,11 @@ button {
     margin: -10px -10px 10px;
 }
 
+span{
+    font-size: medium;
+    padding-left: 550px;
+}
+
 .frame-one,
 .frame-two,
 .frame-three{
