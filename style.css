@@ -86,6 +86,10 @@ button {
     color: inherit;
 }
 
+.header{
+    text-decoration: none;
+}
+
 
 .warning-note{
     text-decoration: underline;
