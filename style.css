@@ -11,7 +11,7 @@ button {
     background-color:#6482AD;
     color: white;
     padding: 10px 15px 40px;
-    margin: -10px -10px 10px;
+    margin: -10px -10px 90px;
 }
 
 span{
@@ -19,6 +19,14 @@ span{
     padding-left: 550px;
     font-weight: 100;
 }
+
+.recipe-list{
+    background-color: #7FA1C3;
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
 
 .frame-one,
 .frame-two,
@@ -34,7 +42,7 @@ span{
 
 
 .frame-one{
-    margin: 80px 10px 10px;
+    margin: 10px 10px 10px;
 }
 
 .frame-two{
