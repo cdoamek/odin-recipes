@@ -13,9 +13,25 @@ button {
     margin: -10px -10px 10px;
 }
 
+.frame-one{
+    border: solid;
+    margin: 10px;
+}
+
+.frame-two{
+    border: solid;
+    margin: 10px;
+}
+
+
+.frame-three{
+    border: solid;
+    margin: 10px;
+}
+
 li {
     list-style-type: none;
-    padding: 0;
+    
 }
 
 .image-container {
