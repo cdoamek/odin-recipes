@@ -20,7 +20,7 @@ span{
     font-weight: 100;
 }
 
-.recipe-list{
+.container{
     background-color: #7FA1C3;
     width: 600px;
     margin: 0 auto;
@@ -89,4 +89,9 @@ button {
 
 .warning-note{
     text-decoration: underline;
+    border: solid ;
+    width: 450px;
+    height: auto;
+    margin: 0 auto;
+    padding: 5px;
 }
