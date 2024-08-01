@@ -34,11 +34,6 @@ button {
     color: inherit;
 }
 
-.personal-picture img{
-    width: 250px;
-    height: auto;
-    border-radius: 250px;
-}
 
 .warning-note{
     text-decoration: underline;
