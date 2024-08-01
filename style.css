@@ -39,3 +39,9 @@ button {
     height: auto;
     border-radius: 250px;
 }
+
+ul{
+    background-color: rgb(163, 127, 106);
+    border: solid 5px rgb(117, 86, 68);
+    padding: 10px;
+}
